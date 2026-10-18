@@ -1,6 +1,6 @@
 ---
 name: manage-woocommerce-store
-description: Manage a WooCommerce store from chat. Use when the user wants to add or edit products, update prices or stock, find low-stock items, look up or complete orders, record a refund, manage customers, create coupons or sales, adjust shipping, or asks for WooCommerce sales reports such as best sellers or revenue for a period.
+description: Manage the user's WooCommerce store from chat. Use whenever the user runs a WooCommerce or WordPress online shop and wants to add or edit products, change prices, update stock or find low-stock items, look up, update or complete orders, record a refund, look up customers, create coupons, discounts or a sale, change shipping, or asks for sales numbers such as best sellers, revenue or orders for a period.
 ---
 
 # Manage a WooCommerce store

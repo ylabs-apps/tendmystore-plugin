@@ -1,23 +1,28 @@
 {
   "name": "tendmystore",
-  "displayName": "TendMyStore for WooCommerce",
+  "displayName": "TendMyStore — WooCommerce Store Manager",
   "version": "1.0.0",
-  "description": "Run your WooCommerce store from chat: products, stock, orders, refunds, customers, coupons, shipping and reports.",
+  "description": "Run your WooCommerce store from Claude: add and edit products, update prices and stock, handle orders and refunds, manage customers and coupons, adjust shipping and get sales reports, with a preview before every important change.",
   "author": {
     "name": "TendMyStore for WooCommerce"
   },
   "license": "MIT",
   "keywords": [
     "woocommerce",
-    "wordpress",
-    "ecommerce",
+    "woocommerce store",
     "online store",
+    "ecommerce",
     "products",
-    "orders",
     "inventory",
-    "coupons",
+    "stock",
+    "orders",
     "refunds",
-    "sales reports"
+    "coupons",
+    "discounts",
+    "shipping",
+    "sales report",
+    "best sellers",
+    "wordpress shop"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/tendmystore-plugin",

@@ -1,6 +1,6 @@
-# TendMyStore for WooCommerce
+# TendMyStore — WooCommerce Store Manager
 
-Run your WooCommerce store from chat: products, stock, orders, refunds, customers, coupons, shipping and reports.
+Run your WooCommerce store from Claude: add and edit products, update prices and stock, handle orders and refunds, manage customers and coupons, adjust shipping and get sales reports, with a preview before every important change.
 
 ## Use it
 
