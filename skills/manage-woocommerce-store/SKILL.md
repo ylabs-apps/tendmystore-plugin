@@ -24,6 +24,6 @@ Use the TendMyStore for WooCommerce connector's available tools for this task. I
 
 ## Don't
 
-- Refunds are recorded in WooCommerce only; never say money was moved or returned to a card.
+- Refunds are recorded in WooCommerce only; never say money was moved or returned to a card. The money moves only when the merchant completes the refund in the payment provider (the tools can prepare the link to the store's own refund button).
 - Never ask for or handle payment credentials.
 - Don't send customer emails or make bulk or permanent changes without the user's explicit go-ahead.
