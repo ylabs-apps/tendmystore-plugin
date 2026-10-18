@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tendmystore": {
+      "type": "http",
+      "url": "https://mcp.tendmystore.com/mcp"
+    }
+  }
+}

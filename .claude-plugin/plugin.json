@@ -1,0 +1,29 @@
+{
+  "name": "tendmystore",
+  "displayName": "TendMyStore for WooCommerce",
+  "version": "1.0.0",
+  "description": "Run your WooCommerce store from chat: products, stock, orders, refunds, customers, coupons, shipping and reports.",
+  "author": {
+    "name": "TendMyStore for WooCommerce"
+  },
+  "license": "MIT",
+  "keywords": [
+    "woocommerce",
+    "wordpress",
+    "ecommerce",
+    "online store",
+    "products",
+    "orders",
+    "inventory",
+    "coupons",
+    "refunds",
+    "sales reports"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/ylabs-apps/tendmystore-plugin",
+  "homepage": "https://tendmystore.com/",
+  "privacyPolicyUrl": "https://tendmystore.com/privacy/",
+  "termsOfServiceUrl": "https://tendmystore.com/terms/",
+  "supportUrl": "https://tendmystore.com/support/",
+  "documentationUrl": "https://tendmystore.com/docs/"
+}
