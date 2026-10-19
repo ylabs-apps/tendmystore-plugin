@@ -22,7 +22,12 @@
     "shipping",
     "sales report",
     "best sellers",
-    "wordpress shop"
+    "wordpress shop",
+    "woocommerce manager",
+    "store manager",
+    "product catalog",
+    "bulk edit products",
+    "order management"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/tendmystore-plugin",
