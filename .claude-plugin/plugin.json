@@ -2,7 +2,7 @@
   "name": "tendmystore",
   "displayName": "TendMyStore — WooCommerce Store Manager",
   "version": "1.0.0",
-  "description": "Run your WooCommerce store from Claude: add and edit products, update prices and stock, handle orders and refunds, manage customers and coupons, adjust shipping and get sales reports, with a preview before every important change.",
+  "description": "Run your WooCommerce store from Claude: add and edit products and variations, update prices and stock, handle orders and refunds, manage customers and coupons, adjust shipping and tax, import and export CSV, print invoices and packing slips, and get sales reports. Every important change is previewed first, and most can be undone.",
   "author": {
     "name": "TendMyStore for WooCommerce"
   },
@@ -29,7 +29,11 @@
     "bulk edit products",
     "order management",
     "woocommerce store manager",
-    "run woocommerce store"
+    "run woocommerce store",
+    "csv import export",
+    "invoices and packing slips",
+    "product variations",
+    "tax rates"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/tendmystore-plugin",
