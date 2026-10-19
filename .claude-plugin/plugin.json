@@ -1,6 +1,6 @@
 {
   "name": "tendmystore",
-  "displayName": "TendMyStore — WooCommerce Store Manager",
+  "displayName": "TendMyStore — Run your WooCommerce store",
   "version": "1.0.0",
   "description": "Run your WooCommerce store from Claude: add and edit products, update prices and stock, handle orders and refunds, manage customers and coupons, adjust shipping and get sales reports, with a preview before every important change.",
   "author": {
@@ -27,7 +27,9 @@
     "store manager",
     "product catalog",
     "bulk edit products",
-    "order management"
+    "order management",
+    "woocommerce store manager",
+    "run woocommerce store"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/tendmystore-plugin",
