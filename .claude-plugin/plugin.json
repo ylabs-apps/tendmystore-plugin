@@ -1,6 +1,6 @@
 {
   "name": "tendmystore",
-  "displayName": "TendMyStore — Run your WooCommerce store",
+  "displayName": "TendMyStore — WooCommerce Store Manager",
   "version": "1.0.0",
   "description": "Run your WooCommerce store from Claude: add and edit products, update prices and stock, handle orders and refunds, manage customers and coupons, adjust shipping and get sales reports, with a preview before every important change.",
   "author": {
